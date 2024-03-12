@@ -4,31 +4,23 @@ body {
 
 h1 {
   color: #121212;
+  width: 956px;
+  height: 120px;
+  font-size: 60px;
 }
 
-img {
+.home {
   width: 1150px;
   height: 500px;
-  top: 278px;
-  left: 125px;
-}
-
-.img-body {
-  width: 260px;
-
   background-image: url(../resurses/серый\ стул.png);
   background-size: contain;
   background-repeat: no-repeat;
-
-  text-align: center;
-
-  padding: 93px 50px;
 }
 
-.img-body-text-wrapper {
-  color: white;
-}
-
-.img-body-text-wrapper h3 {
-  color: aqua;
+p {
+  width: 430px;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: -0.03em;
+  color: #ffffff;
 }
