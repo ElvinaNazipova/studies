@@ -12,3 +12,23 @@ img {
   top: 278px;
   left: 125px;
 }
+
+.img-body {
+  width: 260px;
+
+  background-image: url(../resurses/серый\ стул.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  text-align: center;
+
+  padding: 93px 50px;
+}
+
+.img-body-text-wrapper {
+  color: white;
+}
+
+.img-body-text-wrapper h3 {
+  color: aqua;
+}
