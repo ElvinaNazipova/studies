@@ -25,3 +25,31 @@ p {
   color: #ffffff;
   padding: 370px 40px;
 }
+
+.history {
+  width: 1048px;
+  height: 366px;
+
+  font-size: 45px;
+
+  line-height: 61px;
+  letter-spacing: -0.03em;
+  color: #121212;
+}
+
+a {
+  display: block;
+  width: 200px;
+  height: 30px;
+  border: 1px solid red;
+  text-align: center;
+  line-height: 30px;
+  text-decoration: none;
+  background-color: aquamarine;
+  color: aliceblue;
+}
+
+a:hover {
+  color: bisque;
+  background-color: red;
+}
