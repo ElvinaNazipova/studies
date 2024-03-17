@@ -36,27 +36,22 @@ h1 {
   line-height: 61px;
   letter-spacing: -0.03em;
   color: #121212;
-}
-
-.btn {
-  display: block;
-  width: 200px;
-  height: 30px;
-  border: 1px solid red;
-  text-align: center;
-  line-height: 30px;
-  text-decoration: none;
-  background-color: white;
-  color: #121212;
   margin-bottom: 30px;
-  cursor: pointer;
-}
-
-.btn:hover {
-  color: bisque;
-  background-color: red;
 }
 
 h2 {
   margin-bottom: 30px;
+}
+
+.btn {
+  display: block;
+  width: 186px;
+  background-color: #ad1818;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 33px;
+  text-align: center;
+  padding: 20px 40px;
+  border-radius: 5px;
 }
