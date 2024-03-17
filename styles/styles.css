@@ -6,7 +6,7 @@ h1 {
   color: #121212;
   width: 956px;
   font-size: 60px;
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .home {
@@ -15,9 +15,10 @@ h1 {
   background-image: url(../resurses/серый\ стул.png);
   background-size: contain;
   background-repeat: no-repeat;
+  margin-bottom: 150px;
 }
 
-p {
+.home__p {
   width: 430px;
   font-size: 20px;
   line-height: 27px;
@@ -54,4 +55,8 @@ p {
 .btn:hover {
   color: bisque;
   background-color: red;
+}
+
+h2 {
+  margin-bottom: 30px;
 }
