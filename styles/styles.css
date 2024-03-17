@@ -2,41 +2,44 @@ body {
   font-family: "Manrope", sans-serif;
 }
 
+.container {
+  width: 1150px;
+  margin: 0 auto;
+}
+
 h1 {
-  color: #121212;
   width: 956px;
-  font-size: 60px;
   margin-bottom: 30px;
+  font-size: 60px;
+  color: #121212;
 }
 
 .home {
   width: 1150px;
   height: 500px;
+  margin-bottom: 150px;
   background-image: url(../resurses/серый\ стул.png);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-bottom: 150px;
 }
 
 .home__p {
   width: 430px;
+  padding: 370px 40px;
   font-size: 20px;
   line-height: 27px;
   letter-spacing: -0.03em;
   color: #ffffff;
-  padding: 370px 40px;
 }
 
 .history {
   width: 1048px;
   height: 366px;
-
+  margin-bottom: 30px;
   font-size: 45px;
-
   line-height: 61px;
   letter-spacing: -0.03em;
   color: #121212;
-  margin-bottom: 30px;
 }
 
 h2 {
@@ -46,12 +49,12 @@ h2 {
 .btn {
   display: block;
   width: 186px;
+  padding: 20px 40px;
+  border-radius: 5px;
   background-color: #ad1818;
   text-decoration: none;
   color: #ffffff;
   font-size: 20px;
   line-height: 33px;
   text-align: center;
-  padding: 20px 40px;
-  border-radius: 5px;
 }
