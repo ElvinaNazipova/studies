@@ -67,3 +67,11 @@ h2 {
   letter-spacing: -0.6px;
   cursor: pointer;
 }
+
+.item {
+  border: 5px solid #ad1818;
+  width: 186px;
+  height: 150px;
+  padding-top: 75px;
+  box-sizing: border-box;
+}
