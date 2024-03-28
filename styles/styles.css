@@ -71,3 +71,22 @@ h2 {
   letter-spacing: -0.6px;
   cursor: pointer;
 }
+
+.project {
+  margin-bottom: 90px;
+}
+
+h3 {
+  font-size: 30px;
+  line-height: 40.98px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.btn_project {
+  font-size: 20px;
+  line-height: 27.32px;
+  letter-spacing: -0.03em;
+  color: #ad1818;
+  text-decoration: none;
+}
