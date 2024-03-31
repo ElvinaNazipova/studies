@@ -59,7 +59,7 @@ h2 {
   letter-spacing: -0.03em;
 }
 
-.btn {
+.btn__history {
   display: inline-block;
   padding: 20px 40px;
   border-radius: 5px;
@@ -92,6 +92,10 @@ h3 {
 }
 
 .btn__transition {
+  display: block;
+  padding-top: 51px;
+  padding-bottom: 51px;
+  text-align: center;
   border: 1px solid #ad1818;
   border-radius: 5px;
   font-size: 30px;
@@ -99,4 +103,9 @@ h3 {
   letter-spacing: -0.03em;
   text-decoration: none;
   color: #ad1818;
+}
+
+.btn__transition:hover {
+  background-color: #ad1818;
+  color: #ffffff;
 }
