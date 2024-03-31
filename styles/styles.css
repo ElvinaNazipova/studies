@@ -120,6 +120,14 @@ h3 {
   color: white;
 }
 
+.price {
+  margin-bottom: 60px;
+}
+
+.price:nth-last-child(1) {
+  margin-bottom: 150px;
+}
+
 .h3__price {
   color: #ffffff;
 }
