@@ -109,3 +109,17 @@ h3 {
   background-color: #ad1818;
   color: #ffffff;
 }
+
+.section_black {
+  width: 1400px;
+  height: 1844px;
+  background-color: #121212;
+}
+
+.h2__color {
+  color: white;
+}
+
+.h3__price {
+  color: #ffffff;
+}
