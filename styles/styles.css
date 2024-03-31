@@ -90,3 +90,13 @@ h3 {
   color: #ad1818;
   text-decoration: none;
 }
+
+.btn__transition {
+  border: 1px solid #ad1818;
+  border-radius: 5px;
+  font-size: 30px;
+  line-height: 40.98px;
+  letter-spacing: -0.03em;
+  text-decoration: none;
+  color: #ad1818;
+}
