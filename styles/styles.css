@@ -8,12 +8,16 @@ section {
   padding: 0 125px 150px 125px;
 }
 
+section:nth-last-child(6) {
+  padding-bottom: 70px;
+}
+
 .nav,
 .home,
 .we,
 .project__home {
   margin: 0 auto;
-  width: 1150px;
+  width: 1400px;
   background: #ffffff;
 }
 
@@ -23,6 +27,7 @@ section {
 
 .nav-logo {
   display: inline-block;
+  margin-right: 473px;
 }
 
 .logo {
@@ -31,9 +36,17 @@ section {
   height: 22px;
 }
 
-.nav-link {
+.nav-links {
   display: inline-block;
   vertical-align: top;
+}
+
+.links {
+  margin-right: 60px;
+  text-decoration: none;
+  color: #121212;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 h1 {
