@@ -49,6 +49,11 @@ section:nth-last-child(6) {
   line-height: 25px;
 }
 
+.links__active {
+  text-decoration: underline;
+  color: grey;
+}
+
 h1 {
   width: 956px;
   margin-bottom: 30px;
