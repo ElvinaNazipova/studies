@@ -17,6 +17,25 @@ section {
   background: #ffffff;
 }
 
+.nav__container {
+  padding-top: 33px;
+}
+
+.nav-logo {
+  display: inline-block;
+}
+
+.logo {
+  display: block;
+  width: 127px;
+  height: 22px;
+}
+
+.nav-link {
+  display: inline-block;
+  vertical-align: top;
+}
+
 h1 {
   width: 956px;
   margin-bottom: 30px;
