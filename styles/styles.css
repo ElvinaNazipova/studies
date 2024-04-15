@@ -19,7 +19,8 @@ section:nth-last-child(6) {
 .nav,
 .home,
 .we,
-.project__home {
+.project__home,
+.fullscreen {
   margin: 0 auto;
   width: 1400px;
   background: #ffffff;
@@ -178,4 +179,9 @@ h3 {
 
 .h3__price {
   color: #ffffff;
+}
+
+.fullscreen {
+  height: 717px;
+  background-image: url("/resurses/спальная\ комната.png");
 }
