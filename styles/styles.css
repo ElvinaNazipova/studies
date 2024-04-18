@@ -200,4 +200,6 @@ h3 {
 
 .contact {
   margin-top: 186px;
+  background-image: url(/resurses/телефон.png);
+  background-repeat: no-repeat;
 }
