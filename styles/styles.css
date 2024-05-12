@@ -199,7 +199,19 @@ h3 {
 }
 
 .contact {
-  margin-top: 186px;
+  margin-top: 150px;
+  position: relative;
+}
+
+.contact::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -39px;
+  width: 24px;
+  height: 24px;
   background-image: url(/resurses/телефон.png);
+  background-size: contain;
   background-repeat: no-repeat;
+  background-position: 50%;
 }
