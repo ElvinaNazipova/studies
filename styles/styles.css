@@ -53,6 +53,10 @@ section:nth-last-child(6) {
   line-height: 25px;
 }
 
+.links:nth-last-child(1) {
+  margin-right: 0;
+}
+
 .links:hover {
   text-decoration: underline;
   color: grey;
