@@ -215,3 +215,8 @@ h3 {
   background-repeat: no-repeat;
   background-position: 50%;
 }
+
+.link-connection {
+  text-decoration: none;
+  color: #121212;
+}
