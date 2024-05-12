@@ -220,3 +220,21 @@ h3 {
   text-decoration: none;
   color: #121212;
 }
+
+.foother {
+  background-color: #121212;
+  height: 229px;
+}
+
+.nav-links_text {
+  display: inline-block;
+  margin: 0 auto;
+  width: 556px;
+  text-align: center;
+}
+
+.links_color {
+  width: 79px;
+  height: 25px;
+  color: #ffffff;
+}
