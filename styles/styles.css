@@ -17,6 +17,10 @@ section:nth-last-child(6) {
   padding-bottom: 70px;
 }
 
+section:first-child {
+  padding-bottom: 70px;
+}
+
 .nav,
 .home,
 .we,
